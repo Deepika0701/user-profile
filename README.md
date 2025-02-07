@@ -1,5 +1,5 @@
 ### User Profile
-![User Profile](./assets/ss1.png)
+![User Profile](https://raw.githubusercontent.com/username/repo/main/src/assets/ss1.png)
 
 # React + Vite
 
